@@ -1,3 +1,4 @@
+This is a dummy change
 # FEniCS-preCICE adapter
 
 <a style="text-decoration: none" href="https://github.com/precice/fenics-adapter/blob/master/LICENSE" target="_blank">
